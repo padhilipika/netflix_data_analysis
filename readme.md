@@ -38,8 +38,8 @@ As of 2022-Q2, Netflix boasts over 220 million subscribers globally. This projec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/netflix-catalog-analysis.git
-   cd netflix-catalog-analysis
+   git@github.com:padhilipika/netflix_data_analysis.git
+   cd netflix_data_analysis
    ```
 
 2. Install the required dependencies:
@@ -51,9 +51,6 @@ As of 2022-Q2, Netflix boasts over 220 million subscribers globally. This projec
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Collaborator 1](https://github.com/collaborator1)
-- [Collaborator 2](https://github.com/collaborator2)
 
 ## Acknowledgments
 
